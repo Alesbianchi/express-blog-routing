@@ -1,0 +1,29 @@
+{
+  "name": "express-blog-routing",
+  "version": "1.0.0",
+  "description": "first try express server",
+  "main": "app.js",
+  "scripts": {
+    "watch": "node --watch app.js",
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alesbianchi/express-blog-routing.git"
+  },
+  "keywords": [
+    "node",
+    "blog",
+    "server"
+  ],
+  "author": "alessandro bianchi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alesbianchi/express-blog-routing/issues"
+  },
+  "homepage": "https://github.com/Alesbianchi/express-blog-routing#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
